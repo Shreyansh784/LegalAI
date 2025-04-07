@@ -1,0 +1,82 @@
+Generate an Indian legal contract for: Lease Agreement between Ramesh Kumar   (Landlord) and Anjali Sharma (Tenant).
+
+**Landlord Details:**
+Name: Ramesh Kumar  
+Address: 45 Green Avenue, Mumbai, India
+Contact Number: +91 9876543210
+Email: ramesh.kumar@email.com
+
+**Tenant Details:**
+Name: Anjali Sharma
+Address: 23 Residency Road, Pune, India
+Contact Number: +91 9988776655
+Email: anjali.sharma@email.com
+
+**Property Details:**
+Property Address: Flat No. 302, Sunshine Apartments, Andheri, Mumbai
+
+**Lease Terms:**
+Lease Period: From 1st April 2025 to 31st March 2026
+Monthly Rent: ₹₹25,000
+Security Deposit: ₹₹75,000
+
+Please generate a complete and detailed legal lease agreement formatted as a formal Indian Lease Agreement template, including all essential clauses such as payment terms, maintenance responsibilities, termination conditions, and dispute resolution. This document should comply with the laws of both India and international standards.
+
+---
+
+## **LEASE AGREEMENT**
+
+This Leasing Agreement ("Agreement") is made this [day] day of [month], [year], by:
+
+RAMESH KUMAR (hereinafter referred to as "Landlord" or "Lessor"), whose principal place of business is at 45 Green Avenue, Mumbai, India;
+and,
+
+ANJALI SHARMA (hereinafter referred to as "Tenant").
+
+### **PARTIAL LEASE AGREEMENT FOR THE USE OF LAND AND BUILDING, AS FOLLOWS:**
+
+1. **RENTAL PREMISES:** The Landlord agrees to rent out the entire building situated on Green Avenue, Mumbai to the Tenant for the term commencing from 01/04/2025 up until 31/03/2026.
+
+2. **SECURITY DEPOSIT:** 
+    - Security deposit shall be paid in cash upon signing of this Agreements.
+    - Total security deposit amount is ₹75,000/-.
+
+3. **RENT PAYMENT TERMS:** Monthly rent shall be paid through bank transfer details provided within seven days of each due date. Payments can only be made via Bank Transfer System approved by the Lessor; any late payments will incur late fee charges @ 10% per month period.
+
+4. **PAYABLE FROM:** Cash deposits are required upon each renewal/cancellation request. Payment must include full account balance before any deductions.
+
+5. **TERM:** The rental period starts on 01/04/2025 and ends on 31/03/2026. Upon expiration of the initial term, the tenant has two months' notice prior to renewing if desired.
+
+6. **OBLIGATIONS:** The Tenant acknowledges they have read, understood, and agree to abide by all terms set forth hereunder.
+
+7. **USE OF SPACE:** Except for specifically permitted areas like kitchens or bathrooms without reservations prior, tenants may use common spaces but strictly adhere to usage guidelines agreed upon beforehand.
+
+8. **Maintenance Responsibilities:** Both parties agree that maintenance of premises falls exclusively under responsibility of the landowner. Tenants are expected to maintain cleanliness and repair damages promptly.
+
+9. **Utilities:** Utilities are owned by the landlord unless otherwise specified during negotiations; costs split according to standard rates.
+
+10. **Insurance:** Responsibility rests solely with the Tenant; insurance premiums not included in monthly expenses.
+
+11. **Termination Conditions:** Either party may terminate this Agreement upon mutual written notice given three weeks' advance unless signed novation by one party’s consent.
+
+12. **Dispute Resolution:** Disputes arising from the agreement will be resolved through mediation first followed by arbitration in case of disputes beyond mediation's scope.
+
+13. **Governing Law:** All disputes fall under Indian law and governed by courts established in India.
+
+14. **Entire Agreement:** This Agreement constitutes the entirety of our understanding regarding this property transaction.
+
+15. **Amendments:** Changes require prior written agreement from both parties.
+
+By signing below, we acknowledge that we have had discussions about this agreement, signifying our intent to proceed further:
+
+---
+
+**LANDLORD'S SIGNATURE:** _______________________________
+**DATE:** _____________________________________
+
+**TENANT'S SIGNATURE:** _______________________________
+**DATE:** ____________________________________
+
+---
+
+Note: This is just a sample lease agreement. Consult a lawyer specializing in Indian real estate for proper drafting and review considering local regulations and specific requirements of your location.

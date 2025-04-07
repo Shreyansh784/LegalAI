@@ -1,0 +1,133 @@
+Generate an Indian legal contract for: Employment Agreement between ABC Tech Solutions Pvt Ltd and Rahul Sharma.
+
+**Employee Details:**
+Name: Rahul Sharma
+Address: 789 Residency Road, Delhi, India
+Contact Number: +91 9876543210
+Email: rahul.sharma@email.com
+
+**Employer's Details:**
+Company Name: ABC Tech Solutions Pvt Ltd
+Address: 123 Corporate Park, Bangalore, India
+Phone: +91 9998887776
+Email: hr@abctech.com
+
+**Terms & Conditions:**
+The Employee agrees to work as a part-time/full-time employee with ABC Tech Solutions Pvt Ltd starting from 1st April 2025 until 31st March 2026. Salary per month: ₹85,000/- plus additional allowances as per company policies.
+
+Please generate the complete legal contract in a detailed, formatted manner similar to a formal Indian Employment Agreement template. Ensure that all clauses are clearly defined, including payment terms, benefits, termination conditions, confidentiality, intellectual property rights, etc., which comply with Indian laws such as the Indian Contract Act (Cap XXV) of 1872. Also include necessary sections like "Governing Law," "Dispute Resolution," "Amendments/Modifications," "Severability," and "Notices."
+
+### Employment Agreement
+
+---
+
+I, [Rahul Sharma], residing at Residency Road, Delhi, India (+91 9876543210), hereby agree to accept employment under ABC Tech Solutions Pvt Ltd as specified below:
+
+### **PARTIES**
+
+A. **ABC Tech Solutions Pvt Ltd**: 
+    - Name: ABC Tech Solutions Pvt Ltd
+    - Address: 123 Corporate Park, Bangalore, India
+    - Phone: +91 9998887776
+    - Email: hr@abctech.com
+    This is the employer and shall be considered as one party hereunder.
+B. **Rahul Sharma**:  
+    - Full name: Rahul Sharma
+    - Residence address: 789 Residency Road, Delhi, India
+    - Contact number: +91 9876543210
+    - Email: rahul.sharma@email.com
+    The other party or each of them.
+
+### **EMPLOYMENT DETAILS**
+
+1. **Duration:** Effective date, this agreement extends up to 01-04-2025 till 31-03-2026, unless terminated earlier due to unforeseen circumstances.
+   
+2. **Work Schedule:** Regular working hours will be Monday through Friday; flexibility may apply during holidays. Overtime pay applicable upon request.
+
+3. **Job Title:** Part-time Fulfillment Manager (if full-time appointment)
+
+4. **Salary Structure:** Monthly salary of ₹85,000/- plus additional allowances based on performance criteria agreed by both parties.
+
+5. **Benefits:** Comprehensive health insurance, retirement plans, annual leave entitlements, and any related contributions or deductions within reasonable timeframes.
+
+### **TERMS AND CONDITIONS**
+
+1. **Acceptance:** By signing this document, I acknowledge understanding these terms and acknowledging my commitment to fulfilling duties assigned by the company without exceptions.
+
+2. **Payment Terms:** Payment details to be discussed but generally monthly via bank transfer. Additional allowances covered according to performance milestones.
+
+3. **Confidentiality:** Protected proprietary information shared strictly among authorized personnel only.
+
+4. **Intellectual Property Rights:** All ideas generated remain owned exclusively by the company; no reuse allowed without explicit permission.
+
+5. **Termination Clause:** Either party can terminate the contract immediately upon written notice if breach occurs after initial review period.
+
+6. **Notice Period:** Written notice must precede finalization before termination unless prior discussions resolve issues quickly.
+
+7. **Right of Seizure:** In case of defaulting payments, seizure of assets could occur following judicial proceedings.
+
+8. **Liability:** Held responsible for damages caused outside standard operating procedures.
+
+9. **Indemnification:** Neither party owes compensation beyond basic liability framework not exceeding ₹10 million.
+
+10. **Compliance:** Adherence to local labor laws and regulations throughout tenure ensured.
+
+11. **Changes:** Amendments require mutual consent unless mutually agreed otherwise.
+
+12. **Entire Agreement:** This contract supersedes all previous agreements, thereby disclaiming any pre-existing obligations.
+
+13. **Governing Law:** Jurisdiction lies in courts of New Delhi under the jurisdictional authority determined under Section 3(1)(b) of the Indian Contract Act.
+
+14. **Dispute Resolution:** Disputes resolved through mediation first; arbitration thereafter available.
+
+15. **Amendments:** Any changes made should be communicated in writing followed by approval before being legally binding.
+
+16. **Severability Clauses:** Entire agreement renders subsequent modifications ineffective unless explicitly stated otherwise.
+
+17. **Notices:** Each party must provide timely notices except where immediate compliance required.
+
+### **INTELLECTUAL PROPERTY**
+
+All intellectual creations belong solely to the entity recognized hereafter ("the Company") with ownership rights extending to future developments unless specific permissions exist elsewhere.
+
+### **CONFIDENTIALITY AND NON-COMPETITION**
+
+Neither party retains confidential information regarding business strategies; employees access data through secure channels. Competitive practices prohibited post-signature unless waived separately.
+
+### **PAYMENTS**
+
+Monthly salaries paid directly into separate accounts. Payments subject to regulatory requirements; additional fees for premium services added quarterly.
+
+### ** Termination**
+
+Either party terminates unilaterally if breaches substantial enough, requiring notice preceding effective termination date.
+
+### **Benefits and Compensation**
+
+Additional allowance structures aligned to performance milestones; benefits comprehensive including health insurance, pension plan adjustments when feasible.
+
+### **Notice Requirements**
+
+Written notice mandatory; failure to meet deadlines invalidates contract validity without waiver.
+
+### **Governing Authority**
+
+Jurisdiction rests under New Delhi Courts; venue determination governed by law.
+
+### **Miscellaneous**
+
+Non-binding interpretations encouraged; disputes settled through mediation then arbitration as needed.
+
+### **Signatures**
+
+This Employment Agreement represents our understanding and binds us collectively.
+
+---
+
+[Signature]
+[Rahul Sharma]
+
+---
+
+
+[Date]

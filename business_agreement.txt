@@ -1,0 +1,26 @@
+Generate an Indian legal contract for: Business Agreement.
+
+**Company Details:**
+Company Name: ABC Pvt Ltd
+Address: 101 Corporate Tower, Connaught Place, New Delhi, India
+
+**Parties Involved:**
+1. ABC Pvt Ltd, hereinafter referred to as 'The Company'
+   - Registered at: 101 Corporate Tower, Connaught Place, New Delhi, India
+
+2. XYZ Consulting Services, hereinafter referred to as 'Partner'
+   - Partner Address: 507 Business Hub, Electronic City, Bangalore, India
+
+**Scope of Work and Services:** XYZ Consulting Services will provide business strategy consulting and technology implementation services for ABC Pvt Ltd, including market research, process optimization, and IT system integration.  
+
+**Payment Terms:** A monthly retainer of ₹2,00,000, payable on the 5th of each month. Additional project-based fees as per mutual agreement.
+
+**Agreement Duration:** 12 months, starting from 1st April 2025 to 31st March 2026.
+
+**Dispute Resolution:** All disputes shall be resolved through arbitration under the Arbitration and Conciliation Act, 1996, in New Delhi.
+
+**Termination Clause:** Either party may terminate the agreement with 60 days' written notice. Termination due to breach of contract will be immediate, subject to legal consequences.
+
+Please generate a complete and detailed Indian Business Agreement, including essential clauses such as obligations, liabilities, confidentiality, force majeure, governing law, and termination conditions. This should include all necessary sections like Scope of Work, Payment Terms, Confidentiality, Force Majeure, Governing Law, Jurisdictional Area, Governing Laws, Amendments, Entire Agreement, Seals/Signatures, etc., adhering strictly to legal requirements.
+
+This document is meant to illustrate how contracts are structured in India based on common practices and regulations. However, it's crucial to consult with lawyers specializing in Indian laws or legal experts familiar with specific industries to ensure compliance with applicable statutes and norms.
